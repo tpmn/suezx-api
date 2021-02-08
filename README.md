@@ -2,4 +2,6 @@
 
 ## suezx-adtag
 - Smart Banner
-  - 1
+- Standard Banner
+  - Async
+  - sync
