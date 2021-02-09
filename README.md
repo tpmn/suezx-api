@@ -2,11 +2,11 @@
 
 ## suezx-adtag
 - AdTag
-  - Async
+  - Standard Banner
     - Standard Banner Async
-  - sync
-    - Smart Banner
-    - Standard Banner sync
+    - Standard Banner Sync
+  - Smart Banner
+    - Smart Banner 
 
 - RTB
   - TPMN RTB 
