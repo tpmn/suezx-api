@@ -6,6 +6,7 @@
     - Async
     - Sync
   - Smart Banner
+  - ICover
 
 - RTB
   - TPMN RTB 
