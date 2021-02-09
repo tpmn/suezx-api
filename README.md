@@ -13,4 +13,4 @@
 
 - S2S
   - Banner AD
-  - Interstitial AD
+  - Native AD
