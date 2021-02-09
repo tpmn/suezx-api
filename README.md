@@ -3,8 +3,8 @@
 ## suezx-api
 - AdTag
   - Standard Banner
-    - Standard Banner Async
-    - Standard Banner Sync
+    - Async
+    - Sync
   - Smart Banner
 
 - RTB
